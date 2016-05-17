@@ -1,6 +1,1 @@
-Testfile to be uploaded on github
-<<<<<<< HEAD
-this is master
-=======
-this is branch
->>>>>>> brnch
+check branch 2
